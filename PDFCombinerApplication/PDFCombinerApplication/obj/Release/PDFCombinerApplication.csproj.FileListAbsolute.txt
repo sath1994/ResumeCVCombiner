@@ -1,0 +1,10 @@
+c:\users\s5vignes\documents\visual studio 2015\Projects\PDFCombinerApplication\PDFCombinerApplication\bin\Release\PDFCombinerApplication.exe.config
+c:\users\s5vignes\documents\visual studio 2015\Projects\PDFCombinerApplication\PDFCombinerApplication\bin\Release\PDFCombinerApplication.exe
+c:\users\s5vignes\documents\visual studio 2015\Projects\PDFCombinerApplication\PDFCombinerApplication\bin\Release\PDFCombinerApplication.pdb
+c:\users\s5vignes\documents\visual studio 2015\Projects\PDFCombinerApplication\PDFCombinerApplication\bin\Release\itextsharp.dll
+c:\users\s5vignes\documents\visual studio 2015\Projects\PDFCombinerApplication\PDFCombinerApplication\obj\Release\PDFCombinerApplication.csprojResolveAssemblyReference.cache
+c:\users\s5vignes\documents\visual studio 2015\Projects\PDFCombinerApplication\PDFCombinerApplication\obj\Release\PDFCombinerApplication.Form1.resources
+c:\users\s5vignes\documents\visual studio 2015\Projects\PDFCombinerApplication\PDFCombinerApplication\obj\Release\PDFCombinerApplication.Properties.Resources.resources
+c:\users\s5vignes\documents\visual studio 2015\Projects\PDFCombinerApplication\PDFCombinerApplication\obj\Release\PDFCombinerApplication.csproj.GenerateResource.Cache
+c:\users\s5vignes\documents\visual studio 2015\Projects\PDFCombinerApplication\PDFCombinerApplication\obj\Release\PDFCombinerApplication.exe
+c:\users\s5vignes\documents\visual studio 2015\Projects\PDFCombinerApplication\PDFCombinerApplication\obj\Release\PDFCombinerApplication.pdb

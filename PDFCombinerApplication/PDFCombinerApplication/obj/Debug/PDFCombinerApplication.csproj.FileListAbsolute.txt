@@ -1,0 +1,9 @@
+c:\users\s5vignes\documents\visual studio 2015\Projects\PDFCombinerApplication\PDFCombinerApplication\bin\Debug\PDFCombinerApplication.exe.config
+c:\users\s5vignes\documents\visual studio 2015\Projects\PDFCombinerApplication\PDFCombinerApplication\bin\Debug\PDFCombinerApplication.exe
+c:\users\s5vignes\documents\visual studio 2015\Projects\PDFCombinerApplication\PDFCombinerApplication\bin\Debug\PDFCombinerApplication.pdb
+c:\users\s5vignes\documents\visual studio 2015\Projects\PDFCombinerApplication\PDFCombinerApplication\bin\Debug\itextsharp.dll
+c:\users\s5vignes\documents\visual studio 2015\Projects\PDFCombinerApplication\PDFCombinerApplication\obj\Debug\PDFCombinerApplication.Form1.resources
+c:\users\s5vignes\documents\visual studio 2015\Projects\PDFCombinerApplication\PDFCombinerApplication\obj\Debug\PDFCombinerApplication.Properties.Resources.resources
+c:\users\s5vignes\documents\visual studio 2015\Projects\PDFCombinerApplication\PDFCombinerApplication\obj\Debug\PDFCombinerApplication.csproj.GenerateResource.Cache
+c:\users\s5vignes\documents\visual studio 2015\Projects\PDFCombinerApplication\PDFCombinerApplication\obj\Debug\PDFCombinerApplication.exe
+c:\users\s5vignes\documents\visual studio 2015\Projects\PDFCombinerApplication\PDFCombinerApplication\obj\Debug\PDFCombinerApplication.pdb
